@@ -2,7 +2,7 @@
 ## My name is Jhonatan!
 
 - 🔭 I’m currently working on ...
-  https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=orange&style=flat 
+  <img loading="lazy" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=orange&style=flat"/>
 
 <div>
 <a href="https://github.com/JhonatanTana">
