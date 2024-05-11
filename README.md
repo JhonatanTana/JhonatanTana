@@ -9,10 +9,12 @@
   <img loading="lazy" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat"/>
   <img loading="lazy" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/>
   <img loading="lazy" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"/>
-  <img loading="lazy" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat"/> <br>
-- 🌱 I’m currently learning ... <br>
   <img loading="lazy" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat"/>
-  <img loading="lazy" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat"/>
+  <img loading="lazy" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat"/> <br>
+- 🌱 I’m currently learning ... <br>
+
+  <img loading="lazy" src="https://img.shields.io/badge/-CSharp-green?logo=csharp&logoColor=white&style=flat"/>
+  <img loading="lazy" src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white&style=flat"/>
 
 <div>
 <a href="https://github.com/JhonatanTana">
